@@ -1,18 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on applications and projects related to financial field.<br>🤝 I’m looking for help with concepts related to data manipulation and guidance under that.  <br>🌱 I’m currently learning python and its libraries. <br>💬 Ask me about any of your interests and share ideas with me.<br>⚡ Fun fact: the more you think about it, the harder it gets,
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hassan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### Hey, I'm Hassan 👋
+ 
+I'm a final-year CS student from Karachi, Pakistan. I spend most of my time building AI projects — the kind that actually do something useful, not just run on clean benchmark datasets. I recently finished an AI/ML internship at PITB where I got to build real systems aligned with actual government priorities, which was a good way to find out what production-oriented AI work actually looks like.
+ 
+Outside of AI I also build web apps in C# and ASP.NET Core. I like knowing how the full stack works — it makes me more useful when AI models need to actually live somewhere.
+ 
 ---
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+### Things I've built
+ 
+🏍️ **[Motorcycle Violation Detection](https://github.com/hachi-man/motorcycle-violation-detection)**  
+YOLOv8 model that detects helmet violations and motorcycle overloading from road footage. 578 manually annotated images, 6 training experiments, mAP@0.5 of 0.926. Built for PITB's Safe City e-challan system in Punjab.
+ 
+📚 **[AI Study Companion Agent](https://github.com/hachi-man/ai-study-companion-agent)**  
+Local AI agent powered by llama3.2:3b via Ollama — builds personalised study plans, explains concepts, generates quizzes, and tracks progress across sessions. Runs fully offline with no cloud APIs. Built with Python and Streamlit, tested on 10 different topics.
+ 
+🧾 **Freelancer Ledger** *(not yet published)*  
+Full-stack web app for freelancers to track clients, invoices, and payments. ASP.NET Core MVC, EF Core Code-First, SQL Server, role-based access.
+ 
+---
+ 
+### What I work with
+ 
+**AI / ML**  
+Python · PyTorch · YOLOv8 · OpenCV · scikit-learn · Ollama · Streamlit · Roboflow · Google Colab
+ 
+**Development**  
+C# · ASP.NET Core MVC · Entity Framework Core · SQL Server · REST APIs
+ 
+**Tools & workflow**  
+Git · GitHub · VS Code · Visual Studio · Prompt engineering · Local LLM deployment
+ 
+---
+ 
+### Currently
+ 
+- 🎓 Finishing my CS degree
+- 📖 Self-studying ML engineering — working through FSDL 2022 (PyTorch, training infrastructure, MLOps)
+- 👀 Open to AI/ML internships and junior roles — remote or Karachi
+---
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_Razzaq-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-razzaq-279047292/)
