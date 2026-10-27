@@ -1,6 +1,6 @@
 ### Hey, I'm Hassan 👋
  
-I'm a final-year CS student from Karachi, Pakistan. I spend most of my time building AI projects — the kind that actually do something useful, not just run on clean benchmark datasets. I recently finished an AI/ML internship at PITB where I got to build real systems aligned with actual government priorities, which was a good way to find out what production-oriented AI work actually looks like.
+I'm a final-year CS student from Lahore, Pakistan. I spend most of my time building AI projects — the kind that actually do something useful, not just run on clean benchmark datasets. I recently finished an AI/ML internship at PITB where I got to build real systems (prototypes) aligned with actual government priorities, which was a good way to find out what production-oriented AI work actually looks like.
  
 Outside of AI I also build web apps in C# and ASP.NET Core. I like knowing how the full stack works — it makes me more useful when AI models need to actually live somewhere.
  
@@ -36,7 +36,7 @@ Git · GitHub · VS Code · Visual Studio · Prompt engineering · Local LLM dep
  
 - 🎓 Finishing my CS degree
 - 📖 Self-studying ML engineering — working through FSDL 2022 (PyTorch, training infrastructure, MLOps)
-- 👀 Open to AI/ML internships and junior roles — remote or Karachi
+- 👀 Open to AI/ML internships and junior roles — remote or Lahore
 ---
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_Razzaq-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-razzaq-279047292/)
